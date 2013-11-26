@@ -1,5 +1,14 @@
 {
   "name": "package",
-  "version": "0.0.0",
-  "dependencies": {}
+  "version": "0.0.1",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "time-grunt": "~0.2.3",
+    "load-grunt-tasks": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "requirejs": "~2.1.9"
+  }
 }
