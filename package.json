@@ -1,0 +1,41 @@
+{
+  "name": "generator-d2-webapp",
+  "version": "0.0.1",
+  "description": "WebApp generator for DHIS 2",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "homepage": "https://github.com/mortenoh/generator-d2-webapp",
+  "bugs": "https://github.com/mortenoh/generator-d2-webapp/issues",
+  "author": {
+    "name": "Morten Olav Hansen",
+    "email": "mortenoh@gmail.com",
+    "url": "https://github.com/mortenoh"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mortenoh/generator-d2-webapp.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.14.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
