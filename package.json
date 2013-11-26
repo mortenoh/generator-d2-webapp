@@ -17,9 +17,6 @@
     "type": "git",
     "url": "git://github.com/mortenoh/generator-d2-webapp.git"
   },
-  "scripts": {
-    "test": "mocha"
-  },
   "dependencies": {
     "yeoman-generator": "~0.14.0"
   },
@@ -36,10 +33,5 @@
   "engines": {
     "node": ">=0.8.0",
     "npm": ">=1.2.10"
-  },
-  "licenses": [
-    {
-      "type": "MIT"
-    }
-  ]
+  }
 }

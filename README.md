@@ -1,3 +1,1 @@
-# generator-d2-webapp
-
-Simple DHIS 2 WebApp generator.
+A simple Yeoman generator for creating DHIS 2 WebApps.
